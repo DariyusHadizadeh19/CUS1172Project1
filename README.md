@@ -1,6 +1,6 @@
 # [Basic Profile Information](https://startbootstrap.com/themes/landing-page/)
 
-[Landing Page](https://startbootstrap.com/themes/landing-page/) is a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[Landing Page](https://startbootstrap.com/themes/landing-page/)My name is Dariyus Hadizadeh and I major in Computer Science and Business and St. Johns University.
 
 ## Preview
 
