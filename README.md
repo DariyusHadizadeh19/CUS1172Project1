@@ -1,6 +1,4 @@
-# [Basic Profile Information](https://startbootstrap.com/themes/landing-page/)
-
-My name is Dariyus Hadizadeh and I major in Computer Science and Business and St. Johns University.
+# [BootStrap](https://startbootstrap.com/themes/landing-page/)
 
 ## Preview
 
